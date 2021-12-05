@@ -1,1 +1,2 @@
 hi my first git repo
+hi my cahnged repo
